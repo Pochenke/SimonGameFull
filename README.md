@@ -1,2 +1,2 @@
 # SimonGameFull
-ahree
+Test funcionalidad JS
